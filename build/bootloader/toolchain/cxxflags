@@ -1,0 +1,7 @@
+"-specs=C:/Users/manue/Controlador-Pendulo_Simple_PID_Equipo_7/build/bootloader/specs/picolibc.specs"
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-fno-rtti
